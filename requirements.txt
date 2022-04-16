@@ -1,0 +1,9 @@
+numpy
+pandas
+tensorflow-gpu
+sklearn
+matplotlib
+joblib
+flask
+flask-restful
+gunicorn
