@@ -4,6 +4,10 @@
 
 app/web/app.py
 
+## build
+
+```docker build -t patrickdmiller/tensorflow-flask .```
+
 
 ## run
 
